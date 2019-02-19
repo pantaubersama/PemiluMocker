@@ -1,0 +1,30 @@
+{
+  "data": {
+    "feed": {
+      "created_at": "2019-02-11T11:13:42.000Z",
+      "created_at_in_word": {
+        "time_zone": "Asia/Jakarta",
+        "iso_8601": "2019-02-11T18:13:42.000+07:00",
+        "en": "11 Feb",
+        "id": "11 Feb"
+      },
+      "id": "1d5e38c6-ef30-44dc-80c8-053e02f94972",
+      "team": {
+        "id": 2,
+        "title": "Tim Prabowo - Sandi",
+        "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_2.jpg"
+      },
+      "source": {
+        "id": "1094917385843142657",
+        "text": "Ini yang harus diubah ke depan, petani-petani kita harus mendapatkan dukungan agar apa yang mereka tanam bisa membawa keberkahan bagi bangsa ini bukan malah menjadi beban hidup bagi para petani.",
+        "media": null
+      },
+      "account": {
+        "id": "132041617",
+        "name": "Sandiaga Salahuddin Uno",
+        "username": "sandiuno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1043889180647010304/jdTFHnI-_200x200.jpg"
+      }
+    }
+  }
+}

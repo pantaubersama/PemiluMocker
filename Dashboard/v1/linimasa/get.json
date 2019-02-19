@@ -1,0 +1,47 @@
+{
+  "data": {
+    "crowlings": [
+      {
+        "created_at": "2019-01-23T07:11:15.089Z",
+        "created_at_in_word": {
+          "time_zone": "Asia/Jakarta",
+          "iso_8601": "2019-01-23T14:11:15.089+07:00",
+          "en": "23 Jan",
+          "id": "23 Jan"
+        },
+        "id": "309c01ed-976a-4b19-aa9f-441fcb2ea63b",
+        "team": {
+          "id": 1,
+          "title": "Tim Jokowi - Ma'ruf",
+          "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_1.jpg"
+        },
+        "keywords": "@keylocal",
+        "feeds_count": 0
+      },
+      {
+        "created_at": "2018-12-31T08:45:39.249Z",
+        "created_at_in_word": {
+          "time_zone": "Asia/Jakarta",
+          "iso_8601": "2018-12-31T15:45:39.249+07:00",
+          "en": "31 Dec",
+          "id": "31 Des"
+        },
+        "id": "0478d83e-ac68-4c3b-a1f9-d17a4b18e056",
+        "team": {
+          "id": 1,
+          "title": "Tim Jokowi - Ma'ruf",
+          "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_1.jpg"
+        },
+        "keywords": "@namakukingkong",
+        "feeds_count": 202
+      }
+    ],
+    "meta": {
+      "pages": {
+        "total": 1,
+        "per_page": 100,
+        "page": 1
+      }
+    }
+  }
+}

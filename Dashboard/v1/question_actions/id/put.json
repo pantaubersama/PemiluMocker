@@ -1,0 +1,51 @@
+{
+  "data": {
+    "question": {
+      "id": "f8b3a802-45f5-49df-8413-6a1caedbe547",
+      "body": "Mendulang banyak upvote itu kuntji!!!!",
+      "status": "active",
+      "question_folder_id": null,
+      "question_folder": null,
+      "user": {
+        "id": "5c969a47-351a-454a-b7ea-c64821d4ca5e",
+        "email": "admin@pantaubersama.com",
+        "full_name": "Survey Manual",
+        "username": "surveymanual",
+        "about": "Akun Survey Manual Pantau Bersama",
+        "avatar": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/5c969a47-351a-454a-b7ea-c64821d4ca5e/IMG-20190218-WA0004.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/5c969a47-351a-454a-b7ea-c64821d4ca5e/thumbnail_IMG-20190218-WA0004.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/5c969a47-351a-454a-b7ea-c64821d4ca5e/thumbnail_square_IMG-20190218-WA0004.jpg"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/5c969a47-351a-454a-b7ea-c64821d4ca5e/medium_IMG-20190218-WA0004.jpg"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/5c969a47-351a-454a-b7ea-c64821d4ca5e/medium_square_IMG-20190218-WA0004.jpg"
+          }
+        },
+        "cluster": {
+          "id": null,
+          "members_count": null,
+          "is_eligible": null,
+          "magic_link": null,
+          "is_link_active": null,
+          "status": null,
+          "name": null,
+          "category_id": null,
+          "category": {
+            "id": null,
+            "name": null
+          },
+          "description": null,
+          "image": null,
+          "is_displayed": null
+        },
+        "verified": false
+      }
+    }
+  }
+}

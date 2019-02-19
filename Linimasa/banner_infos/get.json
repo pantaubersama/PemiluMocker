@@ -1,0 +1,24 @@
+{
+  "data": {
+    "banner_infos": [
+      {
+        "id": "a22d2acd-7eda-4a7a-95a0-931abf5db8e3",
+        "page_name": "tanya",
+        "title": "Tanya Kandidat",
+        "body": "Melalui Tanya Kandidat, kamu bisa menanyakan lebih dalam tentang Janji Politik atau apa saja yang bisa membantumu menilai kualitas masing-masing calon. Pertanyaan dengan Upvote terbanyak akan dikompilasi untuk diarsipkan kepada Tim Sukses peserta Pilpres. Berikut adalah daftar pertanyaan terpilih yang telah dijawab dan menjadi materi Quiz ke V di Kata Kandidat: ",
+        "header_image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/banner_info/header_image/a22d2acd-7eda-4a7a-95a0-931abf5db8e3/Tanya___1.png",
+          "large": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/banner_info/header_image/a22d2acd-7eda-4a7a-95a0-931abf5db8e3/large_Tanya___1.png"
+          }
+        },
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/banner_info/image/a22d2acd-7eda-4a7a-95a0-931abf5db8e3/RackMultipart20190215-23016-tcn5lb.jpg",
+          "large": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/banner_info/image/a22d2acd-7eda-4a7a-95a0-931abf5db8e3/large_RackMultipart20190215-23016-tcn5lb.jpg"
+          }
+        }
+      }
+    ]
+  }
+}

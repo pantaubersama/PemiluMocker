@@ -1,0 +1,22 @@
+{
+  "data": {
+    "banner_info": {
+      "id": "8880dbe8-3324-4f7a-b3f6-8e97af355def",
+      "page_name": "my_input",
+      "title": "My Input",
+      "body": "My Input",
+      "header_image": {
+        "url": null,
+        "large": {
+          "url": null
+        }
+      },
+      "image": {
+        "url": null,
+        "large": {
+          "url": null
+        }
+      }
+    }
+  }
+}

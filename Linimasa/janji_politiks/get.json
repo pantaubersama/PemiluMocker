@@ -1,0 +1,72 @@
+{
+  "data": {
+    "janji_politiks": [
+      {
+        "created_at": "2019-02-12T09:05:43.336Z",
+        "created_at_in_word": {
+          "time_zone": "Asia/Jakarta",
+          "iso_8601": "2019-02-12T16:05:43.336+07:00",
+          "en": "12 Feb",
+          "id": "12 Feb"
+        },
+        "id": "9fb657c1-59a6-4ccd-9eae-d15c94fa5c53",
+        "title": "KOMITMEN POLITIK PRABOWO-SANDI\nTERHADAP PETANI, PEKEBUN, PETERNAK, PETAMBAK DAN NELAYAN INDONESIA",
+        "body": "Bismillahirrohmannirrohim,\n\nKami bertekad jika kami terpilih menjadi Presiden dan Wakil Presiden Republik Indonesia, kami akan menjalankan program ekonomi berbasis pertanian yang sesuai dengan kekayaan alam yang diberikan Tuhan Yang Maha Esa kepada Bangsa Indonesia, yaitu :\n\n1. Meningkatkan kesejahteraan hidup petani, pekebun, peternak, petambak dan nelayan berserta keluarganya melalui program pertanian terpadu.\n\n2. Mewujudkan pasar yang berkeadilan bagi produk pertanian Indonesia antara lain: membatasi impor seraya meningkatkan daya saing produk pertanian Indonesia, dan memastikan harga produk pertanian menguntungkan petani dan terjangkau.\n\n3. Meningkatkan kemampuan sumber daya manusia pertanian melalui pendidikan pertanian yang bermutu serta mengembalikan fungsi dan tugas penyuluh pertanian sesuai UU No. 16 tahun 2006 tentang sistem penyuluhan pertanian, perikanan dan kehutanan.\n\n4. Membentuk Bank Tani dan Nelayan serta mempermudah akses kredit untuk petani dan nelayan.\n\n5. Menyediakan teknologi yang tepat guna, memperbaiki infrastruktur  dan logistik pertanian.\n\n6. Melakukan pembenahan menyeluruh terhadap reforma agraria untuk mewujudkan kepastian akses dan hukum bagi petani, pekebun, peternak terhadap lahan pertanian.\n\n7. Mengembangkan model pertanian modern berbasis teknologi digital yang menarik bagi petani muda selaras dengan perkembangan teknologi digital era 4.0.\n\n8. Tidak mengenakan PPN 10% terhadap produk pertanian dan perkebunan pada tingkat petani.\n\n9. Mempercepat dan memperlancar pencairan dana desa minimal 1 Milyar per Desa guna pembangunan pedesaan termasuk pembangunan pertanian di pedesaan.",
+        "image": {
+          "url": null,
+          "large": {
+            "url": null
+          }
+        },
+        "creator": {
+          "id": "4afb8e2e-2800-4fc8-8087-c9c3de63b28f",
+          "email": "bayu@extrainteger.com",
+          "full_name": "bayu exi",
+          "username": "bayuexi",
+          "about": "sang Tempe Bahorok",
+          "avatar": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/img-20190125-wa0005.jpg",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/thumbnail_img-20190125-wa0005.jpg"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/thumbnail_square_img-20190125-wa0005.jpg"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/medium_img-20190125-wa0005.jpg"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/medium_square_img-20190125-wa0005.jpg"
+            }
+          },
+          "cluster": {
+            "id": null,
+            "members_count": null,
+            "is_eligible": null,
+            "magic_link": null,
+            "is_link_active": null,
+            "status": null,
+            "name": null,
+            "category_id": null,
+            "category": {
+              "id": null,
+              "name": null
+            },
+            "description": null,
+            "image": null,
+            "is_displayed": null
+          },
+          "verified": true
+        },
+        "share_url": "https://staging-share.pantaubersama.com/share/janjipolitik/9fb657c1-59a6-4ccd-9eae-d15c94fa5c53"
+      }
+    ],
+    "meta": {
+      "pages": {
+        "total": 2,
+        "per_page": 100,
+        "page": 1
+      }
+    }
+  }
+}

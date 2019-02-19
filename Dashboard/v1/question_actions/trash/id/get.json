@@ -1,0 +1,74 @@
+{
+  "data": {
+    "questions": {
+      "created_at": "2018-12-30T10:30:57.051Z",
+      "created_at_in_word": {
+        "time_zone": "Asia/Jakarta",
+        "iso_8601": "2018-12-30T17:30:57.051+07:00",
+        "en": "30 Dec",
+        "id": "30 Des"
+      },
+      "id": "0c01f5e6-39fe-47a8-81ed-5baa37092b80",
+      "body": "test buat",
+      "like_count": 1,
+      "report_count": 1,
+      "user": {
+        "id": "1472c6aa-c80d-4157-bf4a-82c0ab3fb784",
+        "email": "edit@extrainteger.com",
+        "full_name": "edityo murti",
+        "username": "edityomurti",
+        "about": "melawan rusa",
+        "avatar": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/1472c6aa-c80d-4157-bf4a-82c0ab3fb784/IMG_20190212_131052.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/1472c6aa-c80d-4157-bf4a-82c0ab3fb784/thumbnail_IMG_20190212_131052.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/1472c6aa-c80d-4157-bf4a-82c0ab3fb784/thumbnail_square_IMG_20190212_131052.jpg"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/1472c6aa-c80d-4157-bf4a-82c0ab3fb784/medium_IMG_20190212_131052.jpg"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/1472c6aa-c80d-4157-bf4a-82c0ab3fb784/medium_square_IMG_20190212_131052.jpg"
+          }
+        },
+        "cluster": {
+          "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+          "members_count": 10,
+          "is_eligible": true,
+          "magic_link": "2296c05a4040",
+          "is_link_active": false,
+          "status": "approved",
+          "name": "Badan Pemenangan Nasional",
+          "category_id": null,
+          "category": {
+            "id": null,
+            "name": null
+          },
+          "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+          "image": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+            }
+          },
+          "is_displayed": true
+        },
+        "verified": true
+      },
+      "is_liked": false,
+      "is_reported": false,
+      "share_url": "https://staging-share.pantaubersama.com/share/tanya/0c01f5e6-39fe-47a8-81ed-5baa37092b80"
+    }
+  }
+}

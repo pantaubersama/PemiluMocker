@@ -1,0 +1,43 @@
+{
+  "data": {
+    "quizzes": [
+      {
+        "created_at": "2019-02-18T14:22:28.537Z",
+        "created_at_in_word": {
+          "time_zone": "Asia/Jakarta",
+          "iso_8601": "2019-02-18T21:22:28.537+07:00",
+          "en": "about 17 hours",
+          "id": "17j"
+        },
+        "id": "ba88de0e-7a8f-40c2-8c94-6f2dcf5c97ae",
+        "title": "Tes Tokendsadsad",
+        "description": "Tes tokendasdsad",
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ba88de0e-7a8f-40c2-8c94-6f2dcf5c97ae/2_-_Infografis_Empat_Fakta_Pemilu_2019_1_.png",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ba88de0e-7a8f-40c2-8c94-6f2dcf5c97ae/thumbnail_2_-_Infografis_Empat_Fakta_Pemilu_2019_1_.png"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ba88de0e-7a8f-40c2-8c94-6f2dcf5c97ae/thumbnail_square_2_-_Infografis_Empat_Fakta_Pemilu_2019_1_.png"
+          },
+          "large": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ba88de0e-7a8f-40c2-8c94-6f2dcf5c97ae/large_2_-_Infografis_Empat_Fakta_Pemilu_2019_1_.png"
+          },
+          "large_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ba88de0e-7a8f-40c2-8c94-6f2dcf5c97ae/large_square_2_-_Infografis_Empat_Fakta_Pemilu_2019_1_.png"
+          }
+        },
+        "quiz_questions_count": 0,
+        "share_url": "https://staging-share.pantaubersama.com/share/kuis/ba88de0e-7a8f-40c2-8c94-6f2dcf5c97ae",
+        "status": "draft"
+      }
+    ],
+    "meta": {
+      "pages": {
+        "total": 1,
+        "per_page": 100,
+        "page": 1
+      }
+    }
+  }
+}

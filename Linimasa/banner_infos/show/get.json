@@ -1,0 +1,22 @@
+{
+  "data": {
+    "banner_info": {
+      "id": "ade8d637-e85e-4726-8005-6cede80ea860",
+      "page_name": "pilpres",
+      "title": "Perhitungan",
+      "body": "Perhitungan",
+      "header_image": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/banner_info/header_image/ade8d637-e85e-4726-8005-6cede80ea860/RackMultipart20190219-9220-krtqbz.png",
+        "large": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/banner_info/header_image/ade8d637-e85e-4726-8005-6cede80ea860/large_RackMultipart20190219-9220-krtqbz.png"
+        }
+      },
+      "image": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/banner_info/image/ade8d637-e85e-4726-8005-6cede80ea860/RackMultipart20190219-9220-1j9z2bo.png",
+        "large": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/banner_info/image/ade8d637-e85e-4726-8005-6cede80ea860/large_RackMultipart20190219-9220-1j9z2bo.png"
+        }
+      }
+    }
+  }
+}

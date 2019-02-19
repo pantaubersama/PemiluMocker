@@ -1,0 +1,75 @@
+{
+  "data": {
+    "question": {
+      "created_at": "2019-02-19T08:00:18.473Z",
+      "created_at_in_word": {
+        "time_zone": "Asia/Jakarta",
+        "iso_8601": "2019-02-19T15:00:18.473+07:00",
+        "en": "1 minute",
+        "id": "1mnt"
+      },
+      "id": "2fa0c0fc-c5dc-442e-93bd-36e10124e067",
+      "body": "Rspec Test",
+      "like_count": 0,
+      "report_count": 0,
+      "user": {
+        "id": "92a39b93-59fd-49ba-a311-b15b86d644e6",
+        "email": "ashar@extrainteger.com",
+        "full_name": "Ashar Mubasir",
+        "username": null,
+        "about": null,
+        "avatar": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/download.png",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/thumbnail_download.png"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/thumbnail_square_download.png"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/medium_download.png"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/medium_square_download.png"
+          }
+        },
+        "cluster": {
+          "id": "2fb34a88-80d6-41d3-9207-987fcd521233",
+          "members_count": 1,
+          "is_eligible": false,
+          "magic_link": "5bd06f81ddb4",
+          "is_link_active": false,
+          "status": "approved",
+          "name": "Show",
+          "category_id": "d957bcb2-61ab-47c8-be0c-ae3a135c1472",
+          "category": {
+            "id": "d957bcb2-61ab-47c8-be0c-ae3a135c1472",
+            "name": "Amikom"
+          },
+          "description": "Show Detail",
+          "image": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/2fb34a88-80d6-41d3-9207-987fcd521233/RackMultipart20190214-15847-ep8utk.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/2fb34a88-80d6-41d3-9207-987fcd521233/thumbnail_RackMultipart20190214-15847-ep8utk.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/2fb34a88-80d6-41d3-9207-987fcd521233/thumbnail_square_RackMultipart20190214-15847-ep8utk.png"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/2fb34a88-80d6-41d3-9207-987fcd521233/medium_RackMultipart20190214-15847-ep8utk.png"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/2fb34a88-80d6-41d3-9207-987fcd521233/medium_square_RackMultipart20190214-15847-ep8utk.png"
+            }
+          },
+          "is_displayed": true
+        },
+        "verified": false
+      },
+      "is_liked": false,
+      "is_reported": false,
+      "share_url": "https://staging-share.pantaubersama.com/share/tanya/2fa0c0fc-c5dc-442e-93bd-36e10124e067"
+    },
+    "status": true
+  }
+}

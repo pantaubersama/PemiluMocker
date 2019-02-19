@@ -1,0 +1,53 @@
+{
+  "data": {
+    "questions": [
+      {
+        "created_at": "2019-02-19T07:08:37.418Z",
+        "created_at_in_word": {
+          "time_zone": "Asia/Jakarta",
+          "iso_8601": "2019-02-19T14:08:37.418+07:00",
+          "en": "about 1 hour",
+          "id": "1j"
+        },
+        "id": "31c9e5db-300c-42a3-a95a-3906e65abe63",
+        "body": "yeah",
+        "like_count": 1,
+        "report_count": 0,
+        "user": {
+          "id": "b06a6d3e-ba42-4a7f-9412-aab2c25babae",
+          "email": "tokelopertama@gmail.com",
+          "full_name": "Eksperia Selatan",
+          "username": "akuselamanya",
+          "about": "Jangan suka menggunjing. Secukupnya saja.",
+          "avatar": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/b06a6d3e-ba42-4a7f-9412-aab2c25babae/IMG_20180911_115229.jpg",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/b06a6d3e-ba42-4a7f-9412-aab2c25babae/thumbnail_IMG_20180911_115229.jpg"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/b06a6d3e-ba42-4a7f-9412-aab2c25babae/thumbnail_square_IMG_20180911_115229.jpg"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/b06a6d3e-ba42-4a7f-9412-aab2c25babae/medium_IMG_20180911_115229.jpg"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/b06a6d3e-ba42-4a7f-9412-aab2c25babae/medium_square_IMG_20180911_115229.jpg"
+            }
+          },
+          "cluster": null,
+          "verified": false
+        },
+        "is_liked": false,
+        "is_reported": false,
+        "share_url": "https://staging-share.pantaubersama.com/share/tanya/31c9e5db-300c-42a3-a95a-3906e65abe63"
+      }
+    ],
+    "meta": {
+      "pages": {
+        "total": 4,
+        "per_page": 100,
+        "page": 1
+      }
+    }
+  }
+}

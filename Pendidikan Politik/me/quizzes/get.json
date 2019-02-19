@@ -1,0 +1,54 @@
+{
+  "data": {
+    "share_url": "https://staging-share.pantaubersama.com/share/kecenderungan/92a39b93-59fd-49ba-a311-b15b86d644e6",
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "title": "Tim Jokowi - Ma'ruf",
+          "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_1.jpg"
+        },
+        "percentage": null
+      },
+      {
+        "team": {
+          "id": 2,
+          "title": "Tim Prabowo - Sandi",
+          "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_2.jpg"
+        },
+        "percentage": null
+      }
+    ],
+    "meta": {
+      "quizzes": {
+        "total": 51,
+        "finished": 0
+      }
+    },
+    "quiz_preference": {
+      "id": null,
+      "image_result": null
+    },
+    "user": {
+      "id": "92a39b93-59fd-49ba-a311-b15b86d644e6",
+      "email": "ashar@extrainteger.com",
+      "full_name": "Ashar Mubasir",
+      "avatar": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/download.png",
+        "thumbnail": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/thumbnail_download.png"
+        },
+        "thumbnail_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/thumbnail_square_download.png"
+        },
+        "medium": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/medium_download.png"
+        },
+        "medium_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/92a39b93-59fd-49ba-a311-b15b86d644e6/medium_square_download.png"
+        }
+      },
+      "verified": false
+    }
+  }
+}

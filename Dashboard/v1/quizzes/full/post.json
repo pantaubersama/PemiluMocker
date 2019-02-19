@@ -1,0 +1,35 @@
+{
+  "data": {
+    "status": true,
+    "quiz": {
+      "created_at": "2019-02-19T07:19:26.436Z",
+      "created_at_in_word": {
+        "time_zone": "Asia/Jakarta",
+        "iso_8601": "2019-02-19T14:19:26.436+07:00",
+        "en": "less than a minute",
+        "id": "1mnt"
+      },
+      "id": "d4ac9a00-9d8d-4a6f-ab48-295c3f3bd94d",
+      "title": "Rspec",
+      "description": "Full Rspec",
+      "image": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/d4ac9a00-9d8d-4a6f-ab48-295c3f3bd94d/jpg.png",
+        "thumbnail": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/d4ac9a00-9d8d-4a6f-ab48-295c3f3bd94d/thumbnail_jpg.png"
+        },
+        "thumbnail_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/d4ac9a00-9d8d-4a6f-ab48-295c3f3bd94d/thumbnail_square_jpg.png"
+        },
+        "large": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/d4ac9a00-9d8d-4a6f-ab48-295c3f3bd94d/large_jpg.png"
+        },
+        "large_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/d4ac9a00-9d8d-4a6f-ab48-295c3f3bd94d/large_square_jpg.png"
+        }
+      },
+      "quiz_questions_count": 0,
+      "participation_status": "not_participating",
+      "share_url": "https://staging-share.pantaubersama.com/share/kuis/d4ac9a00-9d8d-4a6f-ab48-295c3f3bd94d"
+    }
+  }
+}

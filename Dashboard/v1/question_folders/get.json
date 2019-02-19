@@ -1,0 +1,28 @@
+{
+  "data": {
+    "question_folders": [
+      {
+        "id": "a9b69969-7478-4664-a96c-48f171a870fa",
+        "name": "Folder Tes Saja",
+        "questions_count": 1
+      },
+      {
+        "id": "3cbe4735-81b7-40f3-8910-12fbcfbf06dd",
+        "name": "Terpilih 1",
+        "questions_count": 4
+      },
+      {
+        "id": "a69866fc-da0e-4108-b67e-748e8b0461a2",
+        "name": "Pertanyaan Terpilih Minggu 2",
+        "questions_count": 2
+      }
+    ],
+    "meta": {
+      "pages": {
+        "total": 1,
+        "per_page": 100,
+        "page": 1
+      }
+    }
+  }
+}

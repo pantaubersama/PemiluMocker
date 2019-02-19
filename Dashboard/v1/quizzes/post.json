@@ -1,0 +1,35 @@
+{
+  "data": {
+    "status": true,
+    "quiz": {
+      "created_at": "2019-02-19T07:11:29.072Z",
+      "created_at_in_word": {
+        "time_zone": "Asia/Jakarta",
+        "iso_8601": "2019-02-19T14:11:29.072+07:00",
+        "en": "less than a minute",
+        "id": "1mnt"
+      },
+      "id": "99047f5b-599e-40dd-ba31-05e21a1572d4",
+      "title": "spec",
+      "description": "Rspec testing",
+      "image": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/99047f5b-599e-40dd-ba31-05e21a1572d4/Gambar-Kucing-Gemuk-Lucu.jpg",
+        "thumbnail": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/99047f5b-599e-40dd-ba31-05e21a1572d4/thumbnail_Gambar-Kucing-Gemuk-Lucu.jpg"
+        },
+        "thumbnail_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/99047f5b-599e-40dd-ba31-05e21a1572d4/thumbnail_square_Gambar-Kucing-Gemuk-Lucu.jpg"
+        },
+        "large": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/99047f5b-599e-40dd-ba31-05e21a1572d4/large_Gambar-Kucing-Gemuk-Lucu.jpg"
+        },
+        "large_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/99047f5b-599e-40dd-ba31-05e21a1572d4/large_square_Gambar-Kucing-Gemuk-Lucu.jpg"
+        }
+      },
+      "quiz_questions_count": 0,
+      "participation_status": "not_participating",
+      "share_url": "https://staging-share.pantaubersama.com/share/kuis/99047f5b-599e-40dd-ba31-05e21a1572d4"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "data": {
+    "questions": [
+      {
+        "created_at": "2019-02-18T03:40:29.878Z",
+        "created_at_in_word": {
+          "time_zone": "Asia/Jakarta",
+          "iso_8601": "2019-02-18T10:40:29.878+07:00",
+          "en": "1 day",
+          "id": "1d"
+        },
+        "id": "18fd5d4d-8d90-46af-afa7-1bb9ef47f0c4",
+        "body": "124",
+        "like_count": 1,
+        "report_count": 0,
+        "user": {
+          "id": "cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75",
+          "email": "penya@extrainteger.com",
+          "full_name": "Pe Nya",
+          "username": "penya",
+          "about": "babi",
+          "avatar": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/hello.jpg",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_hello.jpg"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_square_hello.jpg"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_hello.jpg"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_square_hello.jpg"
+            }
+          },
+          "cluster": null,
+          "verified": true
+        },
+        "is_liked": false,
+        "is_reported": false,
+        "share_url": "https://staging-share.pantaubersama.com/share/tanya/18fd5d4d-8d90-46af-afa7-1bb9ef47f0c4"
+      }
+    ],
+    "meta": {
+      "pages": {
+        "total": 1,
+        "per_page": 100,
+        "page": 1
+      }
+    }
+  }
+}

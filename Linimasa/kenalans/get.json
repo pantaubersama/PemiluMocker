@@ -1,0 +1,20 @@
+{
+  "data": {
+    "kenalans": [
+      {
+        "id": "f2596bdb-90ba-41e9-8c39-11c891c68f1f",
+        "text": "Ikuti Quiz",
+        "link": "pendidikan-politik?type=quiz",
+        "action_at": null,
+        "is_action": false
+      },
+      {
+        "id": "6c5ffd3d-219a-43e0-8035-c71af1459658",
+        "text": "Kunjungi Web Pantau Bersama",
+        "link": "https://pantaubersama.com/",
+        "action_at": null,
+        "is_action": false
+      }
+    ]
+  }
+}

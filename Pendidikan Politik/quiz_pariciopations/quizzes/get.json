@@ -1,0 +1,56 @@
+{
+  "data": {
+    "share_url": "https://staging-share.pantaubersama.com/share/kecenderungan/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75",
+    "teams": [
+      {
+        "team": {
+          "id": 1,
+          "title": "Tim Jokowi - Ma'ruf",
+          "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_1.jpg"
+        },
+        "percentage": 49.32
+      },
+      {
+        "team": {
+          "id": 2,
+          "title": "Tim Prabowo - Sandi",
+          "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_2.jpg"
+        },
+        "percentage": 50.68
+      }
+    ],
+    "meta": {
+      "quizzes": {
+        "total": 51,
+        "finished": 40
+      }
+    },
+    "quiz_preference": {
+      "id": "38cb2d90-83dc-489a-896e-840492aa9eac",
+      "image_result": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz_preference/image_result/38cb2d90-83dc-489a-896e-840492aa9eac/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75.png"
+      }
+    },
+    "user": {
+      "id": "cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75",
+      "email": "penya@extrainteger.com",
+      "full_name": "Pe Nya",
+      "avatar": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/hello.jpg",
+        "thumbnail": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_hello.jpg"
+        },
+        "thumbnail_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_square_hello.jpg"
+        },
+        "medium": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_hello.jpg"
+        },
+        "medium_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_square_hello.jpg"
+        }
+      },
+      "verified": true
+    }
+  }
+}

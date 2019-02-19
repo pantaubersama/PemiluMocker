@@ -1,0 +1,43 @@
+{
+  "data": {
+    "quizzes": [
+      {
+        "created_at": "2019-02-15T17:13:35.985Z",
+        "created_at_in_word": {
+          "time_zone": "Asia/Jakarta",
+          "iso_8601": "2019-02-16T00:13:35.985+07:00",
+          "en": "16 Feb",
+          "id": "16 Feb"
+        },
+        "id": "ed5c90ba-81e1-457c-aa3b-32a7fef860e2",
+        "title": "Kuis Dadakan",
+        "description": "Kuis Dadakan",
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ed5c90ba-81e1-457c-aa3b-32a7fef860e2/kucing.jpeg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ed5c90ba-81e1-457c-aa3b-32a7fef860e2/thumbnail_kucing.jpeg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ed5c90ba-81e1-457c-aa3b-32a7fef860e2/thumbnail_square_kucing.jpeg"
+          },
+          "large": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ed5c90ba-81e1-457c-aa3b-32a7fef860e2/large_kucing.jpeg"
+          },
+          "large_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/quiz/image/ed5c90ba-81e1-457c-aa3b-32a7fef860e2/large_square_kucing.jpeg"
+          }
+        },
+        "quiz_questions_count": 1,
+        "participation_status": "not_participating",
+        "share_url": "https://staging-share.pantaubersama.com/share/kuis/ed5c90ba-81e1-457c-aa3b-32a7fef860e2"
+      }
+    ],
+    "meta": {
+      "pages": {
+        "total": 1,
+        "per_page": 100,
+        "page": 1
+      }
+    }
+  }
+}

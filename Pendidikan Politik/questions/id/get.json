@@ -1,0 +1,74 @@
+{
+  "data": {
+    "question": {
+      "created_at": "2019-01-30T03:37:37.162Z",
+      "created_at_in_word": {
+        "time_zone": "Asia/Jakarta",
+        "iso_8601": "2019-01-30T10:37:37.162+07:00",
+        "en": "30 Jan",
+        "id": "30 Jan"
+      },
+      "id": "9c308569-19f0-497b-b598-d6c8d0416094",
+      "body": "Mengapa banyak orang tidak sedikit pak?",
+      "like_count": 1,
+      "report_count": 0,
+      "user": {
+        "id": "cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75",
+        "email": "penya@extrainteger.com",
+        "full_name": "Pe Nya",
+        "username": "penya",
+        "about": "babi",
+        "avatar": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/hello.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_hello.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_square_hello.jpg"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_hello.jpg"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_square_hello.jpg"
+          }
+        },
+        "cluster": {
+          "id": "fbc12b08-aa6e-4bd6-b521-dc10e3b92fff",
+          "members_count": 2,
+          "is_eligible": true,
+          "magic_link": "bbb0a44a14d5",
+          "is_link_active": true,
+          "status": "approved",
+          "name": "Admin Pantau Bersama",
+          "category_id": "80855145-6785-4cfd-8dcb-5cc03aeaeafa",
+          "category": {
+            "id": "80855145-6785-4cfd-8dcb-5cc03aeaeafa",
+            "name": "Organisasi"
+          },
+          "description": "Admin Pantau Bersama",
+          "image": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/fav.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/thumbnail_fav.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/thumbnail_square_fav.png"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/medium_fav.png"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/medium_square_fav.png"
+            }
+          },
+          "is_displayed": false
+        },
+        "verified": true
+      },
+      "is_liked": false,
+      "is_reported": false,
+      "share_url": "https://staging-share.pantaubersama.com/share/tanya/9c308569-19f0-497b-b598-d6c8d0416094"
+    }
+  }
+}
