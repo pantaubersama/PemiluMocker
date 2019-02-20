@@ -1,0 +1,33 @@
+{
+  "data": {
+    "feed": {
+      "created_at": "2019-02-11T01:59:36.000Z",
+      "created_at_in_word": {
+        "time_zone": "Asia/Jakarta",
+        "iso_8601": "2019-02-11T08:59:36.000+07:00",
+        "en": "11 Feb",
+        "id": "11 Feb"
+      },
+      "id": "3c64fa87-6d58-48c6-bf5b-8a1cb708f7ee",
+      "team": {
+        "id": 2,
+        "title": "Tim Prabowo - Sandi",
+        "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_2.jpg"
+      },
+      "source": {
+        "id": "1094777942993846272",
+        "text": "Paling senang kalau udah kumpul bareng emak-emak. Semangatnya ngalahin kita yang masih muda-muda. #ThePowerOfEmakEmak https://t.co/kyHJCVvb5h",
+        "media": [
+          "https://pbs.twimg.com/media/DzFuue-UYAA8hKi.jpg",
+          "https://pbs.twimg.com/media/DzFuue_UYAAw_vV.jpg"
+        ]
+      },
+      "account": {
+        "id": "132041617",
+        "name": "Sandiaga Salahuddin Uno",
+        "username": "sandiuno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1043889180647010304/jdTFHnI-_200x200.jpg"
+      }
+    }
+  }
+}
