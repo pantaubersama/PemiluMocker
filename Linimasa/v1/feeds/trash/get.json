@@ -1,0 +1,39 @@
+{
+  "data": {
+    "feeds": [
+      {
+        "created_at": "2019-02-16T04:03:28.000Z",
+        "created_at_in_word": {
+          "time_zone": "Asia/Jakarta",
+          "iso_8601": "2019-02-16T11:03:28.000+07:00",
+          "en": "16 Feb",
+          "id": "16 Feb"
+        },
+        "id": "fb03b868-b72f-4f5b-9e2c-b1dd0778508c",
+        "team": {
+          "id": 1,
+          "title": "Tim Jokowi - Ma'ruf",
+          "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_1.jpg"
+        },
+        "source": {
+          "id": "1096621053990756352",
+          "text": "Negara Indonesia pastinya butuh pemimpin yang optimis bahwa Indonesia akan maju. Dengan begitu Ia akan bekerja keras dan cerdas untuk membangun negeri. Seperti @jokowi, yang kerjanya nyata dan hasilnya bisa dirasakan rakyat Indonesia \n\n#JokowiOranganyaBaik",
+          "media": null
+        },
+        "account": {
+          "id": "1042828357392453632",
+          "name": "Jokowi-Amin",
+          "username": "Jokowi_Amin",
+          "profile_image_url": "https://pbs.twimg.com/profile_images/1047717588640313344/Uxw9Ctui_200x200.jpg"
+        }
+      }
+    ],
+    "meta": {
+      "pages": {
+        "total": 1,
+        "per_page": 100,
+        "page": 1
+      }
+    }
+  }
+}
