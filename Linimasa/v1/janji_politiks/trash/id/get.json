@@ -1,0 +1,77 @@
+{
+  "data": {
+    "politiks": {
+      "created_at": "2019-01-15T11:37:42.873Z",
+      "created_at_in_word": {
+        "time_zone": "Asia/Jakarta",
+        "iso_8601": "2019-01-15T18:37:42.873+07:00",
+        "en": "15 Jan",
+        "id": "15 Jan"
+      },
+      "id": "1f01081b-7e87-4dad-b1d4-2ed712b44b60",
+      "title": "dsadsa",
+      "body": "dsadsadsa",
+      "image": {
+        "url": null,
+        "large": {
+          "url": null
+        }
+      },
+      "creator": {
+        "id": "0d23a2ca-9d21-4a23-aed6-1fc937427a44",
+        "email": "swakresnaedityo@gmail.com",
+        "full_name": "swakresna edityo",
+        "username": "hhh",
+        "about": "",
+        "avatar": {
+          "url": null,
+          "thumbnail": {
+            "url": null
+          },
+          "thumbnail_square": {
+            "url": null
+          },
+          "medium": {
+            "url": null
+          },
+          "medium_square": {
+            "url": null
+          }
+        },
+        "cluster": {
+          "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+          "members_count": 10,
+          "is_eligible": true,
+          "magic_link": "2296c05a4040",
+          "is_link_active": false,
+          "status": "approved",
+          "name": "Badan Pemenangan Nasional",
+          "category_id": null,
+          "category": {
+            "id": null,
+            "name": null
+          },
+          "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+          "image": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+            }
+          },
+          "is_displayed": true
+        },
+        "verified": true
+      },
+      "share_url": "https://staging-share.pantaubersama.com/share/janjipolitik/1f01081b-7e87-4dad-b1d4-2ed712b44b60"
+    }
+  }
+}

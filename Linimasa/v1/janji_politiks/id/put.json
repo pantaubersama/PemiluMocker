@@ -1,0 +1,78 @@
+{
+  "data": {
+    "status": true,
+    "janji_politik": {
+      "created_at": "2019-02-20T09:01:15.434Z",
+      "created_at_in_word": {
+        "time_zone": "Asia/Jakarta",
+        "iso_8601": "2019-02-20T16:01:15.434+07:00",
+        "en": "about 5 hours",
+        "id": "5j"
+      },
+      "id": "3ec56744-0e3c-4d6b-8e5e-a85dcaa904d3",
+      "title": "test",
+      "body": "test2",
+      "image": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/janji_politik/image/3ec56744-0e3c-4d6b-8e5e-a85dcaa904d3/RackMultipart20190220-25153-m6y7m4.png",
+        "large": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/janji_politik/image/3ec56744-0e3c-4d6b-8e5e-a85dcaa904d3/large_RackMultipart20190220-25153-m6y7m4.png"
+        }
+      },
+      "creator": {
+        "id": "cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75",
+        "email": "penya@extrainteger.com",
+        "full_name": "Pe Nya",
+        "username": "penya",
+        "about": "babi",
+        "avatar": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/hello.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_hello.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_square_hello.jpg"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_hello.jpg"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_square_hello.jpg"
+          }
+        },
+        "cluster": {
+          "id": "fbc12b08-aa6e-4bd6-b521-dc10e3b92fff",
+          "members_count": 2,
+          "is_eligible": true,
+          "magic_link": "bbb0a44a14d5",
+          "is_link_active": true,
+          "status": "approved",
+          "name": "Admin Pantau Bersama",
+          "category_id": "80855145-6785-4cfd-8dcb-5cc03aeaeafa",
+          "category": {
+            "id": "80855145-6785-4cfd-8dcb-5cc03aeaeafa",
+            "name": "Organisasi"
+          },
+          "description": "Admin Pantau Bersama",
+          "image": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/fav.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/thumbnail_fav.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/thumbnail_square_fav.png"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/medium_fav.png"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fbc12b08-aa6e-4bd6-b521-dc10e3b92fff/medium_square_fav.png"
+            }
+          },
+          "is_displayed": false
+        },
+        "verified": true
+      },
+      "share_url": "https://staging-share.pantaubersama.com/share/janjipolitik/3ec56744-0e3c-4d6b-8e5e-a85dcaa904d3"
+    }
+  }
+}
